@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hamyz.com/static/css/main.df0db8f7.css",
+    "main.js": "/hamyz.com/static/js/main.5735fb19.js",
+    "index.html": "/hamyz.com/index.html",
+    "main.df0db8f7.css.map": "/hamyz.com/static/css/main.df0db8f7.css.map",
+    "main.5735fb19.js.map": "/hamyz.com/static/js/main.5735fb19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0db8f7.css",
+    "static/js/main.5735fb19.js"
+  ]
+}
